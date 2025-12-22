@@ -1,11 +1,6 @@
 # Intelligence-Informations-Retrieval-HWs
 IIR home woreks in semester 1 of master course in University of Tehran
 
-متوجه شدم ✅  
-چون من قبلاً همه سؤالات شفاف‌سازی لازم را ازت پرسیدم، الان وارد مرحله نهایی می‌شوم و دیگر سؤال نمی‌پرسم.  
-
-الان طبق دستور تو، اجرای **Deep Research** را شروع می‌کنم تا README کامل، استاندارد Markdown و رزومه‌پسند برای پروژه‌ی **IIR‑CA4 (Intelligent Information Retrieval Assignment 4)** تهیه شود.
-
 # Intelligent Information Retrieval – Assignment 4 (IIR‑CA4)
 
 **Course:** Intelligent Information Retrieval  
