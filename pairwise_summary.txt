@@ -1,0 +1,22 @@
+======================================================================
+RANKSVM (PAIRWISE LTR) - EVALUATION SUMMARY
+======================================================================
+
+MAIN METRICS:
+  NDCG@10: 0.0101
+  P@10:    0.0156
+  MAP:     0.0142
+
+FEATURE WEIGHTS (sorted by importance):
+  overlap_ratio            : -0.2824
+  tfidf_sim                : +0.2118
+  overlap_count            : +0.1447
+  doc_len                  : +0.0685
+  glove_sim                : +0.0166
+  query_len                : +0.0000
+  Bias                     : -0.0000
+
+TRAINING INFO:
+  Original pairs:  6,750
+  Symmetric pairs: 13,500
+  Queries evaluated: 45

@@ -1,0 +1,51 @@
+Target_Word,Rank,Neighbor,Cosine_Similarity,Relation_Type
+computer,1,computers,0.8752,Synonym/Plural
+computer,2,software,0.8373,Topical - Tech (Paradigmatic)
+computer,3,technology,0.7642,Topical - Tech (Paradigmatic)
+computer,4,pc,0.7366,Synonym/Plural
+computer,5,hardware,0.729,Topical - Tech (Paradigmatic)
+computer,6,internet,0.7287,Topical - Tech (Paradigmatic)
+computer,7,desktop,0.7234,Synonym/Plural
+computer,8,electronic,0.7222,Topical - Tech (Paradigmatic)
+computer,9,systems,0.7198,Topical - Tech (Paradigmatic)
+computer,10,computing,0.7142,Semantic Relation
+game,1,games,0.8645,Synonym/Plural
+game,2,play,0.8316,Topical - Sports (Paradigmatic)
+game,3,season,0.7733,Topical - Sports (Paradigmatic)
+game,4,player,0.758,Topical - Sports (Paradigmatic)
+game,5,players,0.7288,Topical - Sports (Paradigmatic)
+game,6,match,0.7283,Synonym/Plural
+game,7,scoring,0.7201,Semantic Relation
+game,8,playing,0.7146,Topical - Sports (Paradigmatic)
+game,9,playoffs,0.7068,Semantic Relation
+game,10,team,0.7012,Topical - Sports (Paradigmatic)
+space,1,nasa,0.7037,Topical - Space (Paradigmatic)
+space,2,spaces,0.6882,Morphological Variant
+space,3,shuttle,0.6808,Topical - Space (Paradigmatic)
+space,4,earth,0.6727,Topical - Space (Paradigmatic)
+space,5,spacecraft,0.6626,Morphological Variant
+space,6,orbit,0.6452,Topical - Space (Paradigmatic)
+space,7,module,0.6442,Semantic Relation
+space,8,astronauts,0.6247,Semantic Relation
+space,9,spaceship,0.6108,Morphological Variant
+space,10,center,0.609,Semantic Relation
+government,1,administration,0.7937,Synonym/Plural
+government,2,governments,0.7701,Synonym/Plural
+government,3,officials,0.759,Topical - Politics (Paradigmatic)
+government,4,authorities,0.7442,Semantic Relation
+government,5,opposition,0.7372,Semantic Relation
+government,6,saying,0.7336,Semantic Relation
+government,7,official,0.7324,Topical - Politics (Paradigmatic)
+government,8,country,0.732,Semantic Relation
+government,9,promised,0.7295,Semantic Relation
+government,10,military,0.7289,Semantic Relation
+church,1,catholic,0.8385,Topical - Religion (Paradigmatic)
+church,2,churches,0.8329,Synonym/Plural
+church,3,chapel,0.7924,Synonym/Plural
+church,4,baptist,0.7717,Semantic Relation
+church,5,cathedral,0.7676,Synonym/Plural
+church,6,episcopal,0.7649,Semantic Relation
+church,7,parish,0.7533,Semantic Relation
+church,8,congregation,0.7423,Topical - Religion (Paradigmatic)
+church,9,anglican,0.7159,Semantic Relation
+church,10,orthodox,0.7158,Semantic Relation

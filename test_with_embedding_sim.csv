@@ -1,0 +1,9 @@
+query_id,doc_id,query_text,doc_text,relevance,embedding_similarity
+1,1,aerodynamic flow around aircraft wings,study of airflow patterns over wing surfaces during flight conditions,1,0.6202953
+1,2,aerodynamic flow around aircraft wings,analysis of chemical reactions in combustion chambers,0,0.7143586
+1,3,aerodynamic flow around aircraft wings,investigation of lift and drag forces on aircraft structures,1,0.801072
+2,1,heat transfer in boundary layer,thermal conductivity measurements in fluid dynamics,1,0.6926453
+2,4,heat transfer in boundary layer,boundary layer development on flat plates,1,0.87947786
+2,5,heat transfer in boundary layer,structural analysis of composite materials,0,0.67189276
+3,2,shock wave interaction with turbulence,turbulent flow characteristics behind shock fronts,1,0.8474841
+3,6,shock wave interaction with turbulence,numerical methods for solving differential equations,0,0.5372253

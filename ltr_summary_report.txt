@@ -1,0 +1,101 @@
+
+================================================================================
+                    LTR MODELS COMPARISON - FINAL REPORT
+================================================================================
+
+TASK 4.2: Evaluation and Comparison of Learning-to-Rank Models
+
+--------------------------------------------------------------------------------
+1. MODELS EVALUATED
+--------------------------------------------------------------------------------
+   • Pointwise: Ridge Regression
+     - Loss function: Mean Squared Error (MSE)
+     - Treats ranking as regression problem
+     
+   • Pairwise: RankSVM (LinearSVC)
+     - Loss function: Hinge Loss on document pairs
+     - Learns to correctly order pairs of documents
+     
+   • Listwise: XGBoost LambdaMART
+     - Loss function: LambdaRank (optimizes NDCG directly)
+     - Considers entire list of documents per query
+
+--------------------------------------------------------------------------------
+2. EVALUATION METRICS
+--------------------------------------------------------------------------------
+   • NDCG@10 (Normalized Discounted Cumulative Gain):
+     - Measures ranking quality with graded relevance
+     - Accounts for position discount (log2)
+     - Range: [0, 1], higher is better
+     
+   • P@10 (Precision at 10):
+     - Fraction of relevant documents in top 10
+     - Binary relevance (relevant if score > 0)
+     - Range: [0, 1], higher is better
+     
+   • MAP (Mean Average Precision):
+     - Average of precision values at each relevant document
+     - Comprehensive measure across all positions
+     - Range: [0, 1], higher is better
+
+--------------------------------------------------------------------------------
+3. RESULTS SUMMARY
+--------------------------------------------------------------------------------
+
+   Model                          NDCG@10         P@10          MAP
+   ------------------------------------------------------------
+   Pointwise (Ridge)               0.0107       0.0156       0.0145
+   Pairwise (RankSVM)              0.0124       0.0156       0.0142
+   Listwise (LambdaMART)           0.0000       0.0000       0.0071
+   ------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+4. ANALYSIS & CONCLUSIONS
+--------------------------------------------------------------------------------
+
+   BEST MODEL by NDCG@10: Pairwise (RankSVM)
+   BEST MODEL by MAP:     Pointwise (Ridge)
+
+   KEY FINDINGS:
+   
+   • Pointwise Approach:
+     - Simple regression-based method
+     - Does not consider document relationships
+     - Fast training but may not optimize ranking directly
+     
+   • Pairwise Approach:
+     - Learns relative ordering between document pairs
+     - More computationally expensive (O(n²) pairs)
+     - Better captures ranking preferences
+     
+   • Listwise Approach:
+     - Directly optimizes ranking metrics (NDCG)
+     - Most sophisticated approach
+     - Generally achieves best ranking quality
+
+--------------------------------------------------------------------------------
+5. FEATURE IMPORTANCE (XGBoost)
+--------------------------------------------------------------------------------
+   1. tfidf_sim           : 0.1943
+   2. doc_len             : 0.1907
+   3. glove_sim           : 0.1678
+   4. overlap_ratio       : 0.1652
+   5. query_len           : 0.1636
+   6. overlap_count       : 0.1184
+
+--------------------------------------------------------------------------------
+6. RECOMMENDATIONS
+--------------------------------------------------------------------------------
+   
+   • For production systems: Use Listwise (LambdaMART) if computational 
+     resources allow, as it directly optimizes the target metric.
+     
+   • For interpretability: Pointwise models are easier to understand
+     and debug.
+     
+   • For large-scale systems: Consider efficiency vs. quality trade-off.
+     Pairwise methods may be too slow for very large document sets.
+
+================================================================================
+                              END OF REPORT
+================================================================================
