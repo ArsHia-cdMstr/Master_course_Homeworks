@@ -1,0 +1,67 @@
+{
+  "Multi-Agent Collaboration": {
+    "count": 33,
+    "percentage": 14.22,
+    "description": "Collaboration and coordination between agents"
+  },
+  "Frameworks & Tools": {
+    "count": 24,
+    "percentage": 10.34,
+    "description": "Frameworks and development tools"
+  },
+  "Software Engineering": {
+    "count": 13,
+    "percentage": 5.6,
+    "description": "Software engineering and coding applications"
+  },
+  "Healthcare & Medical": {
+    "count": 9,
+    "percentage": 3.88,
+    "description": "Medical and healthcare applications"
+  },
+  "Data & ML": {
+    "count": 16,
+    "percentage": 6.9,
+    "description": "Data analysis and machine learning"
+  },
+  "Evaluation & Benchmarks": {
+    "count": 22,
+    "percentage": 9.48,
+    "description": "Evaluation and benchmarking"
+  },
+  "Social Simulation": {
+    "count": 24,
+    "percentage": 10.34,
+    "description": "Social simulation and human behavior"
+  },
+  "Reasoning & Problem Solving": {
+    "count": 25,
+    "percentage": 10.78,
+    "description": "Reasoning and problem solving"
+  },
+  "Communication": {
+    "count": 7,
+    "percentage": 3.02,
+    "description": "Communication and information exchange"
+  },
+  "Architecture & Design": {
+    "count": 20,
+    "percentage": 8.62,
+    "description": "System architecture and design"
+  },
+  "Security": {
+    "count": 4,
+    "percentage": 1.72,
+    "description": "Cybersecurity"
+  },
+  "Multimodal": {
+    "count": 7,
+    "percentage": 3.02,
+    "description": "Multimodal systems"
+  },
+  "Other Applications": {
+    "count": 28,
+    "percentage": 12.07,
+    "description": "Other applications"
+  }
+}

@@ -1,0 +1,64 @@
+
+==========================================================================================
+MULTI-AGENT LLM RESEARCH ANALYSIS REPORT
+Generated: 2025-12-25 06:18:56
+Sources:
+  - https://github.com/kyegomez/awesome-multi-agent-papers
+  - https://github.com/shizhl/Multi-Agent-Papers
+==========================================================================================
+
+==========================================================================================
+Category                                             Count         Percentage
+==========================================================================================
+Multi-Agent Collaboration                               33             14.22%
+Other Applications                                      28             12.07%
+Reasoning & Problem Solving                             25             10.78%
+Frameworks & Tools                                      24             10.34%
+Social Simulation                                       24             10.34%
+Evaluation & Benchmarks                                 22              9.48%
+Architecture & Design                                   20              8.62%
+Data & ML                                               16              6.90%
+Software Engineering                                    13              5.60%
+Healthcare & Medical                                     9              3.88%
+Communication                                            7              3.02%
+Multimodal                                               7              3.02%
+Security                                                 4              1.72%
+==========================================================================================
+TOTAL                                                  232            100.00%
+==========================================================================================
+
+
+==========================================================================================
+DETAILED ANALYSIS (تحلیل تفصیلی)
+==========================================================================================
+
+[LLM-based textual analysis is disabled in this notebook due to quota limitations; the analysis will be written manually in the final report.]
+
+==========================================================================================
+VISUALIZATIONS
+==========================================================================================
+
+The following charts have been generated in 'report_output/':
+
+1. bar_chart.png - Vertical bar chart showing paper distribution
+2. pie_chart.png - Pie chart showing top 8 categories + others
+3. horizontal_bar.png - Horizontal bar chart for easy comparison
+4. treemap.png - Treemap visualization of research areas
+5. percentage_chart.png - Dual comparison (percentage vs absolute count)
+6. donut_chart.png - Donut chart for top 5 categories
+
+==========================================================================================
+METHODOLOGY
+==========================================================================================
+
+This analysis was conducted using a Hybrid Multi-Agent System:
+
+Agent 1 (Extractor): Extracted paper titles from GitHub repositories
+Agent 2 (Categorizer): Used a hybrid approach (Keyword Matching + LLM)
+Agent 3 (Reporter): Generated visualizations and analysis
+
+Total Processing: ~5-7 minutes for ~500 papers
+
+==========================================================================================
+END OF REPORT
+==========================================================================================

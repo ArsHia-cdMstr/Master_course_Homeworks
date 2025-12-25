@@ -1,0 +1,232 @@
+OASIS: Open Agent Social Interaction Simulations with One Million Agents
+Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems
+AFlow: Automating Agentic Workflow Generation
+Achilles Heel of Distributed Multi-Agent Systems
+Two Heads Are Better Than One: Collaborative LLM Embodied Agents for Human-Robot Interaction
+K-Level Reasoning with Large Language Models
+Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models Beneficial?
+AIOS: LLM Agent Operating System
+Mixture-of-Agents Enhances Large Language Model Capabilities
+Experiential Co-Learning of Software-Developing Agents
+The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies
+TUMIX: Multi-Agent Test-Time Scaling with Tool-Use Mixture
+Talk Isn't Always Cheap: Understanding Failure Modes in Multi-Agent Debate
+DataLab: A Unified Platform for LLM-Powered Business Intelligence
+AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents
+DynaSaur: Large Language Agents Beyond Predefined Actions
+Build Your Personalized Research Group: A Multiagent Framework for Continual and Interactive Science Automation
+Multi-agent Architecture Search via Agentic Supernet
+ComProScanner: A multi-agent based framework for composition-property structured data extraction from scientific literature
+Prompt Engineering Through the Lens of Optimal Control
+Mora: Enabling Generalist Video Generation via A Multi-Agent Framework
+LLM-Based Social Simulations Require a Boundary
+MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization
+Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key?
+Learning to Decode Collaboratively with Multiple Language Models
+MAS-Zero: Designing Multi-Agent Systems with Zero Supervision
+Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models
+CodeR: Issue Resolving with Multi-Agent and Task Graphs
+AGENTSNET: Coordination and Collaborative Reasoning in Multi-Agent LLMs
+Towards Collaborative Autonomous Research
+AllHands: Ask Me Anything on Large-scale Verbatim Feedback via Large Language Models
+Latent Collaboration in Multi-Agent Systems
+Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface
+PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs
+API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs
+Search Self-play: Pushing the Frontier of Agent Capability without Supervision
+YOLO-MARL: You Only LLM Once for Multi-agent Reinforcement Learning
+Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Match Human Crowd Accuracy
+Why Solving Multi-agent Path Finding with Large Language Model has not Succeeded Yet
+Sequential Diagnosis with Language Models ||Open-Source Implementation Code Link
+Communication to Completion: Modeling Collaborative Workflows with Intelligent Multi-Agent Communication
+Evolutionary Optimization of Model Merging Recipes
+CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases
+AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML
+FanCric: Multi-Agentic Framework for Crafting Fantasy 11 Cricket Teams
+Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents
+LAMBDA: A Large Model Based Data Agent
+LLMs as Method Actors: A Model for Prompt Engineering and Architecture
+Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent
+Generative Agents: Interactive Simulacra of Human Behavior
+Multi-Agent Collaboration Mechanisms: A Survey of LLMs
+Large Language Models: A Survey
+AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation
+Stance Detection with Collaborative Role-Infused LLM-Based Agents
+Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence
+Agentic Retrieval-Augmented Generation for Time Series Analysis
+MetaGPT: Meta Programming for Multi-Agent Collaborative Framework
+Virtual Agent Economies
+Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld
+Probe by Gaming: A Game-based Benchmark for Assessing Conceptual Knowledge in LLMs
+Simulating Human-like Daily Activities with Desire-driven Autonomy
+Must-read papers
+Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems
+Cooperative Strategic Planning Enhances Reasoning Capabilities in Large Language Models
+MiniFed : Integrating LLM-based Agentic-Workflow for Simulating FOMC Meeting
+MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution
+Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI
+Enhancing Anomaly Detection in Financial Markets with an LLM-based Multi-Agent Framework
+The Alignment Waltz: Jointly Training Agents to Collaborate for Safety
+Towards an AI co-scientist
+MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception
+LLM-Based Multi-Agent Systems for Software Engineering: Vision and the Road Ahead
+A Strategic Coordination Framework of Small LLMs Matches Large LLMs in Data Synthesis
+Challenges Faced by Large Language Models in Solving Multi-Agent Flocking
+Multi-Agent Deep Research: Training Multi-Agent Systems with M-GRPO
+From Text to Life: On the Reciprocal Relationship between Artificial Life and Large Language Models
+Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System
+CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards
+SQL-of-Thought: Multi-agentic Text-to-SQL with Guided Error Correction
+Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks
+Human-In-the-Loop Software Development Agents
+The Station: An Open-World Environment for AI-Driven Discovery
+MADD: Multi-Agent Drug Discovery Orchestra
+Constitutional AI: Harmlessness from AI Feedback
+PlotGen: Multi-Agent LLM-based Scientific Data Visualization via Multimodal Feedback
+For Contribution
+LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision and the Road Ahead
+GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis
+MEDCO: Medical Education Copilots Based on A Multi-Agent Framework
+MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems
+TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets
+Adversarial Multi-Agent Evaluation of Large Language Models through Iterative Debates
+CoAct-1: Computer-using Agents with Coding as Actions
+Scaling Instructable Agents Across Many Simulated Worlds
+EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms
+On scalable oversight with weak LLMs judging strong LLMs
+When One LLM Drools, Multi-LLM Collaboration Rules
+Tailoring with Targeted Precision: Edit-Based Agents for Open-Domain Procedure Customization
+AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions
+AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks
+Human-level play in Diplomacy by combining language models with strategic reasoning
+PixelCraft: A Multi-Agent System for High-Fidelity Visual Reasoning on Structured Images
+AgentClinic: A Multimodal Agent Benchmark for AI in Clinical Environments
+Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances
+Multi-Agents Based on Large Language Models for Knowledge-based Visual Question Answering
+Multi-Agent-Papers
+Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems
+LLM Harmony: Multi-Agent Communication for Problem Solving
+Improving Large Vision and Language Models by Learning from a Panel of Peers
+Large Language Model for Participatory Urban Planning
+Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?
+Why Do Multi-Agent LLM Systems Fail?
+A Survey on LLM-based Multi-Agent System: Recent Advances and New Frontiers in Application
+Enhancing Supermarket Robot Interaction: A Multi-Level LLM Conversational Interface for Handling Diverse Customer Intents
+LLM-Agent-UMF: LLM-based Agent Unified Modeling Framework
+Large Language Model based Multi-Agents: A Survey of Progress and Challenges
+Towards a Science of Scaling Agent Systems
+More Agents is All You Need
+Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations
+The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization
+Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System
+TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks
+Planning with Multi-Constraints via Collaborative Language Agents
+PC-Agent: A Hierarchical Multi-Agent Framework for Complex Task Automation on PC
+Automated Unit Test Improvement using Large Language Models
+Zodiac: A Cardiologist-Level LLM Framework for Multi-Agent Diagnostics
+CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society
+Thought Communication in Multiagent Collaboration
+Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation
+KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models
+MultiAgentBench: Evaluating the Collaboration and Competition of LLM Agents
+AgentInstruct: Toward Generative Teaching with Agentic Flows
+SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents
+Multi-Agent Collaboration via Evolving Orchestration
+awesome-multi-agent-papers
+Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents
+Very Large-Scale Multi-Agent Simulation in AgentScope
+Sequential Diagnosis with Language Models
+MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making
+Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference
+In-the-Flow Agentic System Optimization for Effective Planning and Tool Use
+SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning
+Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination
+Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization
+A Cooperative Multi-Agent Framework for Zero-Shot Named Entity Recognition
+AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation
+GenSim: A General Social Simulation Platform with Large Language Model based Agents
+Chain of Agents: Large Language Models Collaborating on Long-Context Tasks
+MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding
+AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents
+MALLM: Multi-Agent Large Language Models Framework
+Optimizing Collaboration of LLM based Agents
+Multi-Agent Coordination across Diverse Applications: A Survey
+SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents
+MALT: Improving Reasoning with Multi-Agent LLM Training
+SOTOPIA-RL: REWARD DESIGN FOR SOCIAL INTELLIGENCE
+ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise
+Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents
+UFO: A UI-Focused Agent for Windows OS Interaction
+Large Language Models can Achieve Social Balance
+CulturePark: Boosting Cross-cultural Understanding in Large Language Models
+A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges
+Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning
+LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra
+LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration
+Can Large Language Models Grasp Legal Theories? Enhance Legal Reasoning with Multi-Agent Collaboration
+aiXiv: A Next-Generation Open Access Ecosystem for Scientific Discovery Generated by AI Scientists
+A Multi-Agent Conversational Recommender System
+Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents
+Agent-as-a-Judge: Evaluate Agents with Agents
+The AI Scientist: The world's first AI system for automating scientific research
+Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy
+Scaling Synthetic Data Creation with 1,000,000,000 Personas
+An Electoral Approach to Diversify LLM-based Multi-Agent Collective Decision-Making
+CoMet: Metaphor-Driven Covert Communication for Multi-Agent Language Games
+From LLMs to LLM-based Agents for Software Engineering: A Survey
+The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind
+Reliable Decision-Making for Multi-Agent LLM Systems
+RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance
+Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents
+Shall We Team Up: Exploring Spontaneous Cooperation of Competing LLM Agents
+Evolving Diagnostic Agents in a Virtual Clinical Environment
+SDPO: Segment-Level Direct Preference Optimization for Social Agents
+LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions
+Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents
+Agents Thinking Fast and Slow: A Talker-Reasoner Architecture
+The Landscape of Agentic Reinforcement Learning for LLMs: A Survey
+Small LLMs Are Weak Tool Learners: A Multi-LLM Agent
+MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration
+Can AI Agents Design and Implement Drug Discovery Pipelines?
+AgentGym: Evolving Large Language Model-based Agents across Diverse Environments
+The Collaboration Gap
+SciAgent: A Unified Multi-Agent System for Generalistic Scientific Reasoning
+Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL
+Mindstorms in Natural Language-Based Societies of Mind
+AgentScope: A Flexible yet Robust Multi-Agent Platform
+Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)
+Multi-Agent Consensus Seeking via Large Language Models
+LLM Multi-Agent Systems: Challenges and Open Problems
+A Survey on Large Language Model based Autonomous Agents
+MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning
+Cultural Evolution of Cooperation among LLM Agents
+Multi-Agent Collaborative Data Selection for Efficient LLM Pretraining
+Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1
+ChatDev: Communicative Agents for Software Development
+ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate
+BoxingGym: Benchmarking Progress in Automated Experimental Design
+Enhancing Reasoning with Collaboration and Memory
+Multi Agent based Medical Assistant for Edge Devices
+Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation
+Agents on the Bench: Large Language Model Based Multi Agent Framework for Trustworthy Digital Justice
+Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents
+MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation
+Social World Models
+LLM Voting: Human Choices and AI Collective Decision Making
+GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis
+Large language model empowered participatory urban planning
+Agents' Room: Narrative Generation through Multi-step Collaboration
+BreachSeek: A Multi-Agent Automated Penetration Tester
+Beyond Human Translation: Multi-Agent Collaboration for Translating Ultra-Long Literary Texts
+AutoAgents: A Framework for Automatic Agent Generation
+Automated Design of Agentic Systems
+Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution
+LLM-based Multi-Agent Systems: Techniques and Business Perspectives
+Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence
+Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning
+RouteLLM: An Open-Source Framework for Cost-Effective LLM Routing
+SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence
+Large Language Model-Based Agents for Software Engineering: A Survey
+Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts
+Symphony: A Decentralized Multi-Agent Framework for Scalable Collective Intelligence
+TRIZ Agents: A Multi-Agent LLM Approach for TRIZ-Based Innovation
