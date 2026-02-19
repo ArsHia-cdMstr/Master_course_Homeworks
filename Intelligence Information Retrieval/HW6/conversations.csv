@@ -1,0 +1,221 @@
+user_id,initial_query,num_turns,full_conversation
+,neural networks,3,"User Query: neural networks
+
+Assistant: What specific aspect of neural networks are you interested in, such as applications, architectures, or optimization techniques?
+User: I'm specifically interested in neural ranking models for passage retrieval, particularly focusing on efficiency and domain adaptation.
+
+Assistant: What time period are you focusing on for the research papers, such as recent publications or a specific range of years?
+User: I'm looking for conference papers published between 2019 and 2023.
+
+Assistant: Are you interested in any particular application area for the passage retrieval models, such as information retrieval, question answering, or another domain?
+User: I'm specifically focused on information retrieval, particularly in the context of neural ranking models for passage retrieval.
+"
+,deep learning,3,"User Query: deep learning
+
+Assistant: What specific aspect of deep learning are you interested in, such as applications, algorithms, or theoretical foundations?
+User: I'm specifically interested in the application of deep learning in recommender systems, particularly focusing on sequential recommendation with transformers. I'm looking for papers that address the cold-start problem and scalability issues in this context.
+
+Assistant: What time period are you focusing on for the research papers, such as recent years or a specific range?
+User: I'm looking for papers published between 2020 and 2024.
+
+Assistant: Are you interested in any particular methodology or approach used in these papers, such as specific types of transformers or hybrid models?
+User: I'm looking for both survey and empirical papers that explore sequential recommendation with transformers, particularly those that address the cold-start problem and scalability issues. I'm not focused on specific methodologies beyond that.
+"
+,BERT models,3,"User Query: BERT models
+
+Assistant: What specific aspect of BERT models are you interested in, such as their applications, improvements, or comparisons with other models?
+User: I'm particularly interested in empirical studies focusing on cross-lingual transfer learning for low-resource languages using models like mBERT and XLM-R. I'm looking for research that examines language typology and performance on Asian languages, while excluding English-only experiments.
+
+Assistant: What time period are you focusing on for these studies? Are you looking for the most recent papers, or are you open to older research as well?
+User: I'm specifically looking for empirical studies published between 2021 and 2024.
+
+Assistant: Are you interested in a particular methodology used in these studies, such as quantitative analyses, qualitative assessments, or specific experimental setups?
+User: I'm primarily focused on empirical studies, so I'm interested in methodologies that involve quantitative analyses and experimental setups relevant to cross-lingual transfer learning for low-resource languages.
+"
+,transformers,3,"User Query: transformers
+
+Assistant: What specific aspect of transformers are you interested in, such as their application in natural language processing, computer vision, or another area?
+User: I'm specifically interested in the application of vision transformers for object detection, particularly focusing on DETR variants and patch embedding strategies. I'm also looking into aspects like computational efficiency and small object detection.
+
+Assistant: What time period are you focusing on for your research? Are you looking for the most recent papers, or are you interested in foundational studies as well?
+User: I'm focusing on papers published between 2020 and 2024, specifically looking for novel methods with available code in the area of vision transformers for object detection.
+
+Assistant: Are you interested in any particular datasets that these studies should utilize or compare their methods against?
+User: I'm not sure about specific datasets, but I'm primarily focused on novel methods in vision transformers for object detection, particularly DETR variants and patch embedding strategies, with an emphasis on computational efficiency and small object detection.
+"
+,graph learning,3,"User Query: graph learning
+
+Assistant: What specific aspect of graph learning are you interested in? For example, are you looking for theoretical advancements, practical applications, or specific algorithms?
+User: I'm specifically interested in theoretical analysis and scalability to large graphs within the context of graph neural networks for node classification.
+
+Assistant: What time period are you focusing on for the research papers? For example, are you looking for the most recent studies or papers from a specific range of years?
+User: I'm looking for papers published between 2018 and 2023.
+
+Assistant: Are there any particular application areas or domains (like social networks, bioinformatics, or others) where you want to see the node classification applied?
+User: I'm primarily focused on foundational papers and recent surveys related to graph neural networks for node classification, so I'm not looking for application-specific studies.
+"
+,question answering,3,"User Query: question answering
+
+Assistant: What specific aspect of question answering are you interested in, such as methodologies, applications, or technologies?
+User: I'm specifically interested in empirical studies that focus on conversational question answering over knowledge bases, particularly those that involve multi-hop reasoning and context tracking. I'm also looking for papers that discuss benchmark datasets and evaluation metrics.
+
+Assistant: What time period are you focusing on for the empirical studies in conversational question answering?
+User: I'm looking for papers published between 2020 and 2024.
+
+Assistant: Are you interested in any specific application areas for these conversational question answering systems, such as customer service, education, or healthcare?
+User: I'm not sure. My focus is primarily on empirical studies related to conversational question answering over knowledge bases, particularly those involving multi-hop reasoning and context tracking, along with benchmark datasets and evaluation metrics.
+"
+,reinforcement learning,3,"User Query: reinforcement learning
+
+Assistant: What specific aspect of reinforcement learning are you interested in, such as algorithms, applications, or theoretical foundations?
+User: I'm particularly interested in reinforcement learning from human feedback for large language models, focusing on aspects like scalability, reward hacking, and safety.
+
+Assistant: What time period are you focusing on for the research papers? Are you looking for recent studies or a broader historical context?
+User: I'm specifically looking for papers from 2022 to 2024.
+
+Assistant: Are you interested in empirical studies, theoretical papers, or a mix of both regarding reinforcement learning from human feedback?
+User: I'm looking for both theoretical and empirical papers on reinforcement learning from human feedback for large language models.
+"
+,sentiment,3,"User Query: sentiment
+
+Assistant: Could you specify the domain or application area you are interested in regarding sentiment analysis (e.g., social media, customer reviews, finance)?
+User: I'm specifically focused on aspect-based sentiment analysis for product reviews.
+
+Assistant: What time period are you interested in for the research papers on aspect-based sentiment analysis?
+User: I'm looking for papers published between 2019 and 2024.
+
+Assistant: What specific methodology or approach are you interested in, such as machine learning techniques, deep learning, or rule-based methods?
+User: I'm focused on empirical studies related to aspect extraction, opinion mining, and multi-aspect sentiment analysis, particularly in the context of product reviews.
+"
+,distributed learning,3,"User Query: distributed learning
+
+Assistant: What specific aspects of distributed learning are you interested in, such as theoretical frameworks, applications, or methodologies?
+User: I'm specifically interested in convergence guarantees and privacy-utility tradeoffs within the context of federated learning with non-IID data.
+
+Assistant: What time period are you focusing on for the research papers? Are you looking for recent studies or seminal works in this area?
+User: I'm looking for papers published between 2020 and 2024 that focus on novel methods in federated learning with non-IID data, specifically addressing convergence guarantees and privacy-utility tradeoffs.
+
+Assistant: Are there any specific application areas or domains you are particularly interested in for federated learning, such as healthcare, finance, or any other field?
+User: I'm not sure about specific application areas; my focus is primarily on the theoretical aspects of federated learning with non-IID data, particularly convergence guarantees and privacy-utility tradeoffs.
+"
+,NLP extraction,3,"User Query: NLP extraction
+
+Assistant: What specific aspect of NLP extraction are you interested in, such as techniques, applications, or evaluation methods?
+User: I'm particularly interested in dataset benchmarks and low-resource scenarios related to joint entity and relation extraction using transformers. I'm looking for surveys and representative methods published between 2020 and 2024 in venues like ACL, EMNLP, and NAACL.
+
+Assistant: Are you looking for papers that focus on a particular language or type of entity and relation extraction, or is your interest more general across multiple languages?
+User: I'm looking for papers that cover joint entity and relation extraction in a general context, without a specific focus on a particular language.
+
+Assistant: Do you have a preference for the types of transformer models discussed in the papers, such as BERT, RoBERTa, or others, or are you open to any transformer-based approaches?
+User: I'm open to any transformer-based approaches as long as they relate to joint entity and relation extraction, particularly focusing on dataset benchmarks and low-resource scenarios.
+"
+,model robustness,3,"User Query: model robustness
+
+Assistant: What specific domain or application area are you interested in for model robustness?
+User: I'm focused on Machine Learning Security, specifically looking at adversarial attacks on vision transformers.
+
+Assistant: What time period are you interested in for the research papers on this topic?
+User: I'm looking for papers published between 2021 and 2024.
+
+Assistant: What specific methodology or type of approach are you interested in regarding adversarial attacks on vision transformers?
+User: I'm interested in novel methods, particularly focusing on attention-based attacks, patch-based perturbations, and certified defenses.
+"
+,conversational AI,3,"User Query: conversational AI
+
+Assistant: What specific aspects of conversational AI are you interested in? For example, are you looking for research on its applications, technologies, or user interactions?
+User: I'm specifically interested in aspects related to task-oriented dialogue systems, particularly focusing on few-shot adaptation and multi-domain transfer in the context of end-to-end learning.
+
+Assistant: What time period are you interested in for the research papers? Are you looking for the most recent studies or any specific range of years?
+User: I'm looking for papers published between 2020 and 2024.
+
+Assistant: Are there any specific methodologies or approaches you're particularly interested in, such as neural networks, reinforcement learning, or something else?
+User: I'm focused on empirical studies that include code, particularly those related to dialogue state tracking, policy learning, and GPT-based dialogue systems within task-oriented dialogue systems.
+"
+,interpretability,3,"User Query: interpretability
+
+Assistant: What specific aspect of interpretability are you interested in, such as methods, applications, or theoretical frameworks?
+User: I'm specifically interested in attention-based explanations for NLP models, focusing on evaluation metrics and human studies related to these explanations.
+
+Assistant: What time period are you focusing on for the research papers, or are you open to any relevant studies?
+User: I'm specifically looking for papers published between 2019 and 2024.
+
+Assistant: Are you interested in any particular NLP models or frameworks, such as BERT, GPT, or others, that you would like the papers to focus on?
+User: I'm not sure. My focus is on attention-based explanations for NLP models in general, rather than specific models.
+"
+,medical imaging,3,"User Query: medical imaging
+
+Assistant: What specific aspect of medical imaging are you interested in, such as techniques, applications, or technologies?
+User: I'm specifically interested in deep learning techniques for medical image segmentation, particularly focusing on U-Net variants, 3D segmentation, and organ segmentation. I'm also looking for papers that address issues like limited training data and clinical validation.
+
+Assistant: What time period are you focusing on for the research papers?
+User: I'm looking for papers published between 2020 and 2024.
+
+Assistant: Are you interested in a particular medical domain, such as oncology, cardiology, or neurology, related to the organ segmentation?
+User: I'm not sure. My focus is on deep learning for medical image segmentation, specifically U-Net variants, 3D segmentation, and organ segmentation, without a specific medical domain mentioned.
+"
+,forecasting,3,"User Query: forecasting
+
+Assistant: What specific domain or application area are you interested in for forecasting?
+User: I'm focused on multivariate time series forecasting, particularly using transformer-based models. I'm interested in aspects like long sequence modeling and missing data handling.
+
+Assistant: What time period or publication years are you most interested in for the papers?
+User: I'm looking for papers published between 2021 and 2024.
+
+Assistant: Are you looking for theoretical papers, practical applications, or a mix of both in your search?
+User: I'm specifically looking for novel methods with benchmarks in the area of transformer-based models for multivariate time series forecasting.
+"
+,code generation,3,"User Query: code generation
+
+Assistant: What specific aspect of code generation are you interested in? For example, are you looking for research on techniques, applications, or tools?
+User: I'm particularly interested in empirical studies focusing on evaluation benchmarks and security implications related to large language models for code generation and completion.
+
+Assistant: What time period are you interested in for these empirical studies? Are you looking for recent papers from the last few years, or is there a specific timeframe you have in mind?
+User: I'm specifically looking for empirical studies published between 2021 and 2024.
+
+Assistant: Are you interested in a particular application area for these code generation studies, such as web development, data science, or another field?
+User: I'm not sure. My focus is primarily on empirical studies related to large language models for code generation and completion, specifically looking at evaluation benchmarks and security implications, without a specific application area in mind.
+"
+,causal models,3,"User Query: causal models
+
+Assistant: What specific aspect of causal models are you interested in, such as methodology, application area, or theoretical foundations?
+User: I'm particularly interested in the theoretical aspects of causal representation learning in deep neural networks, focusing on identifiability guarantees and practical algorithms.
+
+Assistant: What time period are you focusing on for the research papers?
+User: I'm looking for papers published between 2020 and 2024.
+
+Assistant: Are you interested in any specific application areas where these causal representation learning techniques are applied, such as healthcare, social sciences, or another field?
+User: I'm not sure. My focus is primarily on the theoretical aspects of causal representation learning, specifically on identifiability guarantees and practical algorithms, rather than specific application areas.
+"
+,speech processing,3,"User Query: speech processing
+
+Assistant: What specific aspect of speech processing are you interested in? For example, are you looking at speech recognition, synthesis, or something else?
+User: I'm specifically interested in end-to-end speech recognition, particularly using transformers. My focus includes topics like wav2vec, conformer, and streaming ASR, especially in the context of low-resource languages and noisy environments.
+
+Assistant: What time period are you focusing on for the research papers? Are you looking for recent studies, or is there a specific range of years that interests you?
+User: I'm focusing on papers from 2020 to 2024. I'm particularly interested in surveys and seminal works related to end-to-end speech recognition with transformers during this time frame.
+
+Assistant: Are you looking for papers from specific conferences or journals, or are you open to any reputable source in the field?
+User: I prefer papers from specific venues such as ICASSP, Interspeech, NeurIPS, and ICML.
+"
+,few-shot learning,3,"User Query: few-shot learning
+
+Assistant: What specific aspect of few-shot learning are you interested in? For example, are you looking for theoretical studies, applications, or specific methodologies?
+User: I'm primarily interested in theoretical studies and methodologies related to task-agnostic meta-learning for few-shot classification, specifically focusing on MAML variants, metric learning, and prototypical networks. I'm looking for both foundational and recent advances, particularly those that address theoretical guarantees and computational efficiency.
+
+Assistant: What time period are you most interested in for the papers? Are you looking for recent publications from the last few years, or foundational papers from earlier?
+User: I'm looking for papers published between 2019 and 2024 that cover both foundational and recent advances in task-agnostic meta-learning for few-shot classification.
+
+Assistant: Are you looking for papers from specific journals or conferences, or are you open to any reputable source in the field?
+User: I'm specifically looking for papers published in venues like ICML, NeurIPS, and ICLR.
+"
+,vision language,3,"User Query: vision language
+
+Assistant: What specific aspect of vision-language research are you interested in, such as image captioning, visual question answering, or multimodal learning?
+User: I'm specifically interested in multimodal learning, particularly in vision-language pre-training for image-text retrieval. I'm focusing on novel methods related to zero-shot transfer and scalability to web-scale data, while excluding image captioning only.
+
+Assistant: What time period are you focusing on for the research papers, such as recent years or a specific range?
+User: I'm looking for papers published between 2021 and 2024.
+
+Assistant: Are you looking for papers that discuss specific methodologies used in vision-language pre-training, or are you open to a variety of approaches?
+User: I'm specifically interested in novel methods related to vision-language pre-training, particularly those that focus on zero-shot transfer and scalability to web-scale data.
+"
