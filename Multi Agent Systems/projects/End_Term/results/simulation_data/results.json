@@ -1,0 +1,8 @@
+{
+  "scenario": "Scenario 1",
+  "results": {
+    "Donald Trump": 103,
+    "Kamala Harris": 97
+  },
+  "winner": "Donald Trump"
+}

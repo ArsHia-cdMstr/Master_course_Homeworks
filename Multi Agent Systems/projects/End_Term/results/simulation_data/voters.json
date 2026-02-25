@@ -1,0 +1,3402 @@
+[
+  {
+    "id": 1,
+    "traits": {
+      "wisdom": 1,
+      "fear": 2,
+      "anger": 2,
+      "openness": 8,
+      "trust": 8
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 2,
+    "traits": {
+      "wisdom": 1,
+      "fear": 1,
+      "anger": 10,
+      "openness": 6,
+      "trust": 7
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, leading to a reasoned vote:"
+  },
+  {
+    "id": 3,
+    "traits": {
+      "wisdom": 3,
+      "fear": 2,
+      "anger": 2,
+      "openness": 4,
+      "trust": 1
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, leading to a recommendation"
+  },
+  {
+    "id": 4,
+    "traits": {
+      "wisdom": 8,
+      "fear": 1,
+      "anger": 9,
+      "openness": 6,
+      "trust": 3
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 5,
+    "traits": {
+      "wisdom": 3,
+      "fear": 3,
+      "anger": 6,
+      "openness": 6,
+      "trust": 10
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 6,
+    "traits": {
+      "wisdom": 3,
+      "fear": 1,
+      "anger": 8,
+      "openness": 7,
+      "trust": 5
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 7,
+    "traits": {
+      "wisdom": 9,
+      "fear": 8,
+      "anger": 9,
+      "openness": 2,
+      "trust": 6
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Okay, let's analyze this scenario and craft a response based on the provided voter traits and debate"
+  },
+  {
+    "id": 8,
+    "traits": {
+      "wisdom": 2,
+      "fear": 2,
+      "anger": 3,
+      "openness": 4,
+      "trust": 10
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 9,
+    "traits": {
+      "wisdom": 3,
+      "fear": 9,
+      "anger": 8,
+      "openness": 1,
+      "trust": 9
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Okay, let's analyze this voter profile and the debate excerpt to determine a likely vote.\n\n**Voter P"
+  },
+  {
+    "id": 10,
+    "traits": {
+      "wisdom": 8,
+      "fear": 8,
+      "anger": 6,
+      "openness": 7,
+      "trust": 4
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 11,
+    "traits": {
+      "wisdom": 9,
+      "fear": 3,
+      "anger": 3,
+      "openness": 3,
+      "trust": 8
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 12,
+    "traits": {
+      "wisdom": 10,
+      "fear": 1,
+      "anger": 8,
+      "openness": 8,
+      "trust": 8
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 13,
+    "traits": {
+      "wisdom": 4,
+      "fear": 2,
+      "anger": 5,
+      "openness": 7,
+      "trust": 2
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 14,
+    "traits": {
+      "wisdom": 3,
+      "fear": 8,
+      "anger": 7,
+      "openness": 9,
+      "trust": 4
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 15,
+    "traits": {
+      "wisdom": 10,
+      "fear": 8,
+      "anger": 2,
+      "openness": 9,
+      "trust": 8
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 16,
+    "traits": {
+      "wisdom": 7,
+      "fear": 3,
+      "anger": 8,
+      "openness": 9,
+      "trust": 6
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 17,
+    "traits": {
+      "wisdom": 4,
+      "fear": 4,
+      "anger": 7,
+      "openness": 3,
+      "trust": 8
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, leading to a reasoned vote:"
+  },
+  {
+    "id": 18,
+    "traits": {
+      "wisdom": 10,
+      "fear": 3,
+      "anger": 2,
+      "openness": 3,
+      "trust": 8
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 19,
+    "traits": {
+      "wisdom": 9,
+      "fear": 8,
+      "anger": 9,
+      "openness": 2,
+      "trust": 4
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 20,
+    "traits": {
+      "wisdom": 10,
+      "fear": 1,
+      "anger": 10,
+      "openness": 2,
+      "trust": 9
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 21,
+    "traits": {
+      "wisdom": 9,
+      "fear": 3,
+      "anger": 2,
+      "openness": 10,
+      "trust": 4
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 22,
+    "traits": {
+      "wisdom": 1,
+      "fear": 8,
+      "anger": 6,
+      "openness": 7,
+      "trust": 1
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 23,
+    "traits": {
+      "wisdom": 9,
+      "fear": 3,
+      "anger": 2,
+      "openness": 8,
+      "trust": 5
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 24,
+    "traits": {
+      "wisdom": 2,
+      "fear": 1,
+      "anger": 4,
+      "openness": 6,
+      "trust": 3
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 25,
+    "traits": {
+      "wisdom": 10,
+      "fear": 10,
+      "anger": 8,
+      "openness": 8,
+      "trust": 5
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 26,
+    "traits": {
+      "wisdom": 3,
+      "fear": 10,
+      "anger": 5,
+      "openness": 7,
+      "trust": 8
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Okay, let's analyze this scenario and predict a likely response based on the voter traits and the de"
+  },
+  {
+    "id": 27,
+    "traits": {
+      "wisdom": 5,
+      "fear": 10,
+      "anger": 8,
+      "openness": 4,
+      "trust": 5
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Okay, let's analyze this scenario and craft a response based on the provided voter traits and debate"
+  },
+  {
+    "id": 28,
+    "traits": {
+      "wisdom": 1,
+      "fear": 1,
+      "anger": 8,
+      "openness": 5,
+      "trust": 4
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 29,
+    "traits": {
+      "wisdom": 2,
+      "fear": 3,
+      "anger": 4,
+      "openness": 6,
+      "trust": 9
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 30,
+    "traits": {
+      "wisdom": 10,
+      "fear": 10,
+      "anger": 9,
+      "openness": 5,
+      "trust": 4
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, followed by a reasoned vote"
+  },
+  {
+    "id": 31,
+    "traits": {
+      "wisdom": 9,
+      "fear": 3,
+      "anger": 9,
+      "openness": 10,
+      "trust": 8
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 32,
+    "traits": {
+      "wisdom": 3,
+      "fear": 1,
+      "anger": 10,
+      "openness": 9,
+      "trust": 3
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 33,
+    "traits": {
+      "wisdom": 3,
+      "fear": 2,
+      "anger": 9,
+      "openness": 9,
+      "trust": 8
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 34,
+    "traits": {
+      "wisdom": 9,
+      "fear": 9,
+      "anger": 4,
+      "openness": 2,
+      "trust": 10
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 35,
+    "traits": {
+      "wisdom": 8,
+      "fear": 10,
+      "anger": 5,
+      "openness": 7,
+      "trust": 2
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 36,
+    "traits": {
+      "wisdom": 9,
+      "fear": 8,
+      "anger": 4,
+      "openness": 10,
+      "trust": 8
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 37,
+    "traits": {
+      "wisdom": 8,
+      "fear": 8,
+      "anger": 5,
+      "openness": 2,
+      "trust": 9
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Okay, let's analyze this scenario and craft a response reflecting the voter's traits and the debate "
+  },
+  {
+    "id": 38,
+    "traits": {
+      "wisdom": 1,
+      "fear": 9,
+      "anger": 6,
+      "openness": 7,
+      "trust": 10
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 39,
+    "traits": {
+      "wisdom": 10,
+      "fear": 10,
+      "anger": 7,
+      "openness": 9,
+      "trust": 4
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 40,
+    "traits": {
+      "wisdom": 1,
+      "fear": 6,
+      "anger": 10,
+      "openness": 7,
+      "trust": 3
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, leading to a reasoned vote:"
+  },
+  {
+    "id": 41,
+    "traits": {
+      "wisdom": 9,
+      "fear": 2,
+      "anger": 8,
+      "openness": 5,
+      "trust": 7
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 42,
+    "traits": {
+      "wisdom": 3,
+      "fear": 1,
+      "anger": 9,
+      "openness": 8,
+      "trust": 3
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 43,
+    "traits": {
+      "wisdom": 2,
+      "fear": 9,
+      "anger": 6,
+      "openness": 4,
+      "trust": 8
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 44,
+    "traits": {
+      "wisdom": 1,
+      "fear": 1,
+      "anger": 4,
+      "openness": 10,
+      "trust": 7
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response:\n\n**A"
+  },
+  {
+    "id": 45,
+    "traits": {
+      "wisdom": 8,
+      "fear": 9,
+      "anger": 10,
+      "openness": 2,
+      "trust": 3
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 46,
+    "traits": {
+      "wisdom": 3,
+      "fear": 9,
+      "anger": 1,
+      "openness": 9,
+      "trust": 6
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 47,
+    "traits": {
+      "wisdom": 2,
+      "fear": 1,
+      "anger": 5,
+      "openness": 2,
+      "trust": 1
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, leading to a reasoned vote:"
+  },
+  {
+    "id": 48,
+    "traits": {
+      "wisdom": 9,
+      "fear": 9,
+      "anger": 8,
+      "openness": 6,
+      "trust": 5
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 49,
+    "traits": {
+      "wisdom": 5,
+      "fear": 10,
+      "anger": 4,
+      "openness": 7,
+      "trust": 4
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 50,
+    "traits": {
+      "wisdom": 8,
+      "fear": 3,
+      "anger": 6,
+      "openness": 5,
+      "trust": 2
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 51,
+    "traits": {
+      "wisdom": 7,
+      "fear": 1,
+      "anger": 4,
+      "openness": 10,
+      "trust": 1
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 52,
+    "traits": {
+      "wisdom": 1,
+      "fear": 3,
+      "anger": 1,
+      "openness": 9,
+      "trust": 1
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 53,
+    "traits": {
+      "wisdom": 9,
+      "fear": 1,
+      "anger": 5,
+      "openness": 5,
+      "trust": 9
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 54,
+    "traits": {
+      "wisdom": 1,
+      "fear": 3,
+      "anger": 3,
+      "openness": 7,
+      "trust": 5
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 55,
+    "traits": {
+      "wisdom": 8,
+      "fear": 3,
+      "anger": 5,
+      "openness": 7,
+      "trust": 7
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 56,
+    "traits": {
+      "wisdom": 10,
+      "fear": 3,
+      "anger": 7,
+      "openness": 3,
+      "trust": 6
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 57,
+    "traits": {
+      "wisdom": 4,
+      "fear": 2,
+      "anger": 1,
+      "openness": 3,
+      "trust": 10
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 58,
+    "traits": {
+      "wisdom": 8,
+      "fear": 3,
+      "anger": 2,
+      "openness": 5,
+      "trust": 5
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 59,
+    "traits": {
+      "wisdom": 10,
+      "fear": 9,
+      "anger": 1,
+      "openness": 9,
+      "trust": 10
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 60,
+    "traits": {
+      "wisdom": 8,
+      "fear": 1,
+      "anger": 1,
+      "openness": 8,
+      "trust": 10
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 61,
+    "traits": {
+      "wisdom": 8,
+      "fear": 3,
+      "anger": 3,
+      "openness": 4,
+      "trust": 8
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 62,
+    "traits": {
+      "wisdom": 8,
+      "fear": 9,
+      "anger": 4,
+      "openness": 6,
+      "trust": 6
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 63,
+    "traits": {
+      "wisdom": 8,
+      "fear": 10,
+      "anger": 1,
+      "openness": 7,
+      "trust": 8
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter's traits and the debate excerpt, followed by a reasoned response and"
+  },
+  {
+    "id": 64,
+    "traits": {
+      "wisdom": 4,
+      "fear": 9,
+      "anger": 8,
+      "openness": 4,
+      "trust": 7
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 65,
+    "traits": {
+      "wisdom": 8,
+      "fear": 3,
+      "anger": 5,
+      "openness": 6,
+      "trust": 7
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 66,
+    "traits": {
+      "wisdom": 5,
+      "fear": 8,
+      "anger": 6,
+      "openness": 6,
+      "trust": 9
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 67,
+    "traits": {
+      "wisdom": 1,
+      "fear": 8,
+      "anger": 9,
+      "openness": 5,
+      "trust": 9
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, leading to a reasoned vote:"
+  },
+  {
+    "id": 68,
+    "traits": {
+      "wisdom": 8,
+      "fear": 9,
+      "anger": 3,
+      "openness": 3,
+      "trust": 2
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 69,
+    "traits": {
+      "wisdom": 8,
+      "fear": 10,
+      "anger": 1,
+      "openness": 4,
+      "trust": 7
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 70,
+    "traits": {
+      "wisdom": 3,
+      "fear": 2,
+      "anger": 10,
+      "openness": 2,
+      "trust": 5
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 71,
+    "traits": {
+      "wisdom": 10,
+      "fear": 2,
+      "anger": 7,
+      "openness": 5,
+      "trust": 7
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 72,
+    "traits": {
+      "wisdom": 5,
+      "fear": 9,
+      "anger": 8,
+      "openness": 9,
+      "trust": 5
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 73,
+    "traits": {
+      "wisdom": 10,
+      "fear": 10,
+      "anger": 5,
+      "openness": 6,
+      "trust": 4
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 74,
+    "traits": {
+      "wisdom": 8,
+      "fear": 1,
+      "anger": 6,
+      "openness": 2,
+      "trust": 2
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 75,
+    "traits": {
+      "wisdom": 6,
+      "fear": 10,
+      "anger": 3,
+      "openness": 4,
+      "trust": 10
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Okay, let's analyze this voter and their likely choice given the debate excerpt and their traits.\n\n*"
+  },
+  {
+    "id": 76,
+    "traits": {
+      "wisdom": 10,
+      "fear": 5,
+      "anger": 4,
+      "openness": 7,
+      "trust": 4
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 77,
+    "traits": {
+      "wisdom": 8,
+      "fear": 9,
+      "anger": 1,
+      "openness": 6,
+      "trust": 3
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 78,
+    "traits": {
+      "wisdom": 9,
+      "fear": 1,
+      "anger": 10,
+      "openness": 2,
+      "trust": 1
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 79,
+    "traits": {
+      "wisdom": 9,
+      "fear": 2,
+      "anger": 8,
+      "openness": 6,
+      "trust": 6
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 80,
+    "traits": {
+      "wisdom": 1,
+      "fear": 8,
+      "anger": 6,
+      "openness": 6,
+      "trust": 5
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 81,
+    "traits": {
+      "wisdom": 1,
+      "fear": 9,
+      "anger": 7,
+      "openness": 4,
+      "trust": 3
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 82,
+    "traits": {
+      "wisdom": 3,
+      "fear": 3,
+      "anger": 1,
+      "openness": 8,
+      "trust": 6
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 83,
+    "traits": {
+      "wisdom": 1,
+      "fear": 3,
+      "anger": 6,
+      "openness": 3,
+      "trust": 6
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 84,
+    "traits": {
+      "wisdom": 2,
+      "fear": 4,
+      "anger": 4,
+      "openness": 10,
+      "trust": 5
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 85,
+    "traits": {
+      "wisdom": 10,
+      "fear": 4,
+      "anger": 1,
+      "openness": 8,
+      "trust": 7
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 86,
+    "traits": {
+      "wisdom": 2,
+      "fear": 3,
+      "anger": 2,
+      "openness": 2,
+      "trust": 10
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 87,
+    "traits": {
+      "wisdom": 10,
+      "fear": 2,
+      "anger": 8,
+      "openness": 8,
+      "trust": 6
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Okay, let's analyze this voter profile and the debate excerpt to determine a likely vote.\n\n**Voter P"
+  },
+  {
+    "id": 88,
+    "traits": {
+      "wisdom": 1,
+      "fear": 1,
+      "anger": 8,
+      "openness": 1,
+      "trust": 9
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 89,
+    "traits": {
+      "wisdom": 1,
+      "fear": 3,
+      "anger": 3,
+      "openness": 2,
+      "trust": 3
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 90,
+    "traits": {
+      "wisdom": 10,
+      "fear": 2,
+      "anger": 6,
+      "openness": 9,
+      "trust": 8
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 91,
+    "traits": {
+      "wisdom": 3,
+      "fear": 3,
+      "anger": 3,
+      "openness": 3,
+      "trust": 4
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 92,
+    "traits": {
+      "wisdom": 3,
+      "fear": 1,
+      "anger": 3,
+      "openness": 10,
+      "trust": 6
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 93,
+    "traits": {
+      "wisdom": 1,
+      "fear": 1,
+      "anger": 8,
+      "openness": 4,
+      "trust": 6
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 94,
+    "traits": {
+      "wisdom": 1,
+      "fear": 2,
+      "anger": 9,
+      "openness": 3,
+      "trust": 6
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 95,
+    "traits": {
+      "wisdom": 9,
+      "fear": 2,
+      "anger": 7,
+      "openness": 8,
+      "trust": 7
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 96,
+    "traits": {
+      "wisdom": 10,
+      "fear": 8,
+      "anger": 4,
+      "openness": 6,
+      "trust": 9
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, followed by a reasoned vote"
+  },
+  {
+    "id": 97,
+    "traits": {
+      "wisdom": 3,
+      "fear": 10,
+      "anger": 2,
+      "openness": 8,
+      "trust": 4
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Okay, let's analyze this scenario and craft a response based on the provided voter traits and debate"
+  },
+  {
+    "id": 98,
+    "traits": {
+      "wisdom": 8,
+      "fear": 3,
+      "anger": 1,
+      "openness": 7,
+      "trust": 9
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter's traits and the debate excerpt, followed by a reasoned vote recomme"
+  },
+  {
+    "id": 99,
+    "traits": {
+      "wisdom": 8,
+      "fear": 3,
+      "anger": 8,
+      "openness": 1,
+      "trust": 7
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned vot"
+  },
+  {
+    "id": 100,
+    "traits": {
+      "wisdom": 9,
+      "fear": 3,
+      "anger": 8,
+      "openness": 6,
+      "trust": 9
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 101,
+    "traits": {
+      "wisdom": 9,
+      "fear": 1,
+      "anger": 9,
+      "openness": 4,
+      "trust": 8
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 102,
+    "traits": {
+      "wisdom": 4,
+      "fear": 3,
+      "anger": 8,
+      "openness": 7,
+      "trust": 4
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 103,
+    "traits": {
+      "wisdom": 4,
+      "fear": 3,
+      "anger": 9,
+      "openness": 9,
+      "trust": 2
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 104,
+    "traits": {
+      "wisdom": 2,
+      "fear": 9,
+      "anger": 6,
+      "openness": 2,
+      "trust": 1
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 105,
+    "traits": {
+      "wisdom": 3,
+      "fear": 2,
+      "anger": 7,
+      "openness": 5,
+      "trust": 5
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 106,
+    "traits": {
+      "wisdom": 9,
+      "fear": 9,
+      "anger": 6,
+      "openness": 1,
+      "trust": 5
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 107,
+    "traits": {
+      "wisdom": 9,
+      "fear": 5,
+      "anger": 1,
+      "openness": 10,
+      "trust": 1
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and debate excerpt, followed by a reasoned response and vote:"
+  },
+  {
+    "id": 108,
+    "traits": {
+      "wisdom": 3,
+      "fear": 2,
+      "anger": 9,
+      "openness": 10,
+      "trust": 3
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 109,
+    "traits": {
+      "wisdom": 1,
+      "fear": 4,
+      "anger": 8,
+      "openness": 8,
+      "trust": 9
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 110,
+    "traits": {
+      "wisdom": 1,
+      "fear": 9,
+      "anger": 5,
+      "openness": 10,
+      "trust": 6
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 111,
+    "traits": {
+      "wisdom": 9,
+      "fear": 2,
+      "anger": 5,
+      "openness": 7,
+      "trust": 3
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 112,
+    "traits": {
+      "wisdom": 1,
+      "fear": 2,
+      "anger": 1,
+      "openness": 2,
+      "trust": 5
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 113,
+    "traits": {
+      "wisdom": 2,
+      "fear": 2,
+      "anger": 5,
+      "openness": 8,
+      "trust": 7
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpts, leading to a reasoned vot"
+  },
+  {
+    "id": 114,
+    "traits": {
+      "wisdom": 8,
+      "fear": 8,
+      "anger": 9,
+      "openness": 1,
+      "trust": 5
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 115,
+    "traits": {
+      "wisdom": 1,
+      "fear": 8,
+      "anger": 5,
+      "openness": 2,
+      "trust": 4
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 116,
+    "traits": {
+      "wisdom": 8,
+      "fear": 1,
+      "anger": 7,
+      "openness": 7,
+      "trust": 3
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 117,
+    "traits": {
+      "wisdom": 1,
+      "fear": 2,
+      "anger": 5,
+      "openness": 8,
+      "trust": 3
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, leading to a reasoned vote:"
+  },
+  {
+    "id": 118,
+    "traits": {
+      "wisdom": 8,
+      "fear": 6,
+      "anger": 1,
+      "openness": 7,
+      "trust": 4
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter's traits and the debate excerpt, followed by a reasoned vote recomme"
+  },
+  {
+    "id": 119,
+    "traits": {
+      "wisdom": 8,
+      "fear": 8,
+      "anger": 3,
+      "openness": 2,
+      "trust": 2
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned vot"
+  },
+  {
+    "id": 120,
+    "traits": {
+      "wisdom": 10,
+      "fear": 2,
+      "anger": 8,
+      "openness": 10,
+      "trust": 10
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, leading to a recommendation"
+  },
+  {
+    "id": 121,
+    "traits": {
+      "wisdom": 2,
+      "fear": 8,
+      "anger": 6,
+      "openness": 8,
+      "trust": 8
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 122,
+    "traits": {
+      "wisdom": 9,
+      "fear": 8,
+      "anger": 7,
+      "openness": 1,
+      "trust": 6
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 123,
+    "traits": {
+      "wisdom": 8,
+      "fear": 9,
+      "anger": 4,
+      "openness": 2,
+      "trust": 1
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 124,
+    "traits": {
+      "wisdom": 8,
+      "fear": 1,
+      "anger": 1,
+      "openness": 8,
+      "trust": 3
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 125,
+    "traits": {
+      "wisdom": 3,
+      "fear": 8,
+      "anger": 1,
+      "openness": 8,
+      "trust": 2
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 126,
+    "traits": {
+      "wisdom": 1,
+      "fear": 9,
+      "anger": 4,
+      "openness": 1,
+      "trust": 10
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 127,
+    "traits": {
+      "wisdom": 2,
+      "fear": 8,
+      "anger": 4,
+      "openness": 10,
+      "trust": 4
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, leading to a reasoned vote:"
+  },
+  {
+    "id": 128,
+    "traits": {
+      "wisdom": 8,
+      "fear": 3,
+      "anger": 7,
+      "openness": 1,
+      "trust": 9
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 129,
+    "traits": {
+      "wisdom": 8,
+      "fear": 1,
+      "anger": 7,
+      "openness": 6,
+      "trust": 3
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 130,
+    "traits": {
+      "wisdom": 1,
+      "fear": 8,
+      "anger": 4,
+      "openness": 5,
+      "trust": 2
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 131,
+    "traits": {
+      "wisdom": 4,
+      "fear": 2,
+      "anger": 7,
+      "openness": 2,
+      "trust": 5
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 132,
+    "traits": {
+      "wisdom": 9,
+      "fear": 7,
+      "anger": 4,
+      "openness": 5,
+      "trust": 10
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 133,
+    "traits": {
+      "wisdom": 8,
+      "fear": 10,
+      "anger": 2,
+      "openness": 2,
+      "trust": 2
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter's traits and the debate excerpt, followed by a reasoned vote recomme"
+  },
+  {
+    "id": 134,
+    "traits": {
+      "wisdom": 2,
+      "fear": 3,
+      "anger": 5,
+      "openness": 4,
+      "trust": 9
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 135,
+    "traits": {
+      "wisdom": 1,
+      "fear": 10,
+      "anger": 4,
+      "openness": 7,
+      "trust": 2
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 136,
+    "traits": {
+      "wisdom": 9,
+      "fear": 9,
+      "anger": 9,
+      "openness": 2,
+      "trust": 4
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 137,
+    "traits": {
+      "wisdom": 9,
+      "fear": 3,
+      "anger": 1,
+      "openness": 5,
+      "trust": 10
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, leading to a reasoned vote:"
+  },
+  {
+    "id": 138,
+    "traits": {
+      "wisdom": 9,
+      "fear": 8,
+      "anger": 10,
+      "openness": 1,
+      "trust": 3
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 139,
+    "traits": {
+      "wisdom": 1,
+      "fear": 6,
+      "anger": 10,
+      "openness": 3,
+      "trust": 5
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 140,
+    "traits": {
+      "wisdom": 2,
+      "fear": 3,
+      "anger": 7,
+      "openness": 2,
+      "trust": 3
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 141,
+    "traits": {
+      "wisdom": 3,
+      "fear": 7,
+      "anger": 6,
+      "openness": 4,
+      "trust": 9
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 142,
+    "traits": {
+      "wisdom": 9,
+      "fear": 10,
+      "anger": 6,
+      "openness": 5,
+      "trust": 4
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 143,
+    "traits": {
+      "wisdom": 8,
+      "fear": 1,
+      "anger": 5,
+      "openness": 10,
+      "trust": 2
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 144,
+    "traits": {
+      "wisdom": 2,
+      "fear": 10,
+      "anger": 6,
+      "openness": 9,
+      "trust": 7
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 145,
+    "traits": {
+      "wisdom": 9,
+      "fear": 9,
+      "anger": 2,
+      "openness": 8,
+      "trust": 1
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 146,
+    "traits": {
+      "wisdom": 2,
+      "fear": 2,
+      "anger": 6,
+      "openness": 5,
+      "trust": 8
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a reasoned vote:\n"
+  },
+  {
+    "id": 147,
+    "traits": {
+      "wisdom": 9,
+      "fear": 1,
+      "anger": 7,
+      "openness": 10,
+      "trust": 10
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Okay, let's analyze this voter profile and the debate excerpt to determine a likely vote.\n\n**Voter P"
+  },
+  {
+    "id": 148,
+    "traits": {
+      "wisdom": 2,
+      "fear": 1,
+      "anger": 4,
+      "openness": 5,
+      "trust": 10
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 149,
+    "traits": {
+      "wisdom": 10,
+      "fear": 1,
+      "anger": 7,
+      "openness": 2,
+      "trust": 10
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 150,
+    "traits": {
+      "wisdom": 2,
+      "fear": 10,
+      "anger": 6,
+      "openness": 2,
+      "trust": 7
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 151,
+    "traits": {
+      "wisdom": 8,
+      "fear": 1,
+      "anger": 2,
+      "openness": 9,
+      "trust": 7
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 152,
+    "traits": {
+      "wisdom": 9,
+      "fear": 1,
+      "anger": 1,
+      "openness": 5,
+      "trust": 10
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 153,
+    "traits": {
+      "wisdom": 10,
+      "fear": 1,
+      "anger": 7,
+      "openness": 7,
+      "trust": 10
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 154,
+    "traits": {
+      "wisdom": 10,
+      "fear": 4,
+      "anger": 10,
+      "openness": 9,
+      "trust": 4
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 155,
+    "traits": {
+      "wisdom": 1,
+      "fear": 1,
+      "anger": 10,
+      "openness": 6,
+      "trust": 3
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 156,
+    "traits": {
+      "wisdom": 9,
+      "fear": 6,
+      "anger": 7,
+      "openness": 5,
+      "trust": 10
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 157,
+    "traits": {
+      "wisdom": 2,
+      "fear": 9,
+      "anger": 10,
+      "openness": 10,
+      "trust": 10
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Okay, let's analyze this scenario and craft a response based on the provided voter traits and debate"
+  },
+  {
+    "id": 158,
+    "traits": {
+      "wisdom": 3,
+      "fear": 10,
+      "anger": 5,
+      "openness": 10,
+      "trust": 3
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 159,
+    "traits": {
+      "wisdom": 3,
+      "fear": 9,
+      "anger": 8,
+      "openness": 10,
+      "trust": 10
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Okay, let's analyze this voter profile and the debate excerpt to determine a likely vote.\n\n**Voter P"
+  },
+  {
+    "id": 160,
+    "traits": {
+      "wisdom": 9,
+      "fear": 10,
+      "anger": 3,
+      "openness": 4,
+      "trust": 6
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 161,
+    "traits": {
+      "wisdom": 3,
+      "fear": 8,
+      "anger": 4,
+      "openness": 5,
+      "trust": 2
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 162,
+    "traits": {
+      "wisdom": 3,
+      "fear": 3,
+      "anger": 1,
+      "openness": 7,
+      "trust": 6
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 163,
+    "traits": {
+      "wisdom": 10,
+      "fear": 3,
+      "anger": 1,
+      "openness": 5,
+      "trust": 9
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter profile and a likely response, followed by the final answer:\n\n**Vote"
+  },
+  {
+    "id": 164,
+    "traits": {
+      "wisdom": 9,
+      "fear": 8,
+      "anger": 6,
+      "openness": 8,
+      "trust": 7
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 165,
+    "traits": {
+      "wisdom": 10,
+      "fear": 2,
+      "anger": 1,
+      "openness": 5,
+      "trust": 3
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 166,
+    "traits": {
+      "wisdom": 5,
+      "fear": 2,
+      "anger": 7,
+      "openness": 1,
+      "trust": 6
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 167,
+    "traits": {
+      "wisdom": 3,
+      "fear": 4,
+      "anger": 9,
+      "openness": 1,
+      "trust": 1
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Okay, let's analyze this scenario and craft a response based on the provided voter traits and debate"
+  },
+  {
+    "id": 168,
+    "traits": {
+      "wisdom": 10,
+      "fear": 2,
+      "anger": 7,
+      "openness": 3,
+      "trust": 3
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 169,
+    "traits": {
+      "wisdom": 2,
+      "fear": 3,
+      "anger": 3,
+      "openness": 4,
+      "trust": 7
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 170,
+    "traits": {
+      "wisdom": 1,
+      "fear": 1,
+      "anger": 8,
+      "openness": 3,
+      "trust": 4
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 171,
+    "traits": {
+      "wisdom": 5,
+      "fear": 3,
+      "anger": 1,
+      "openness": 3,
+      "trust": 9
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 172,
+    "traits": {
+      "wisdom": 9,
+      "fear": 3,
+      "anger": 9,
+      "openness": 6,
+      "trust": 10
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 173,
+    "traits": {
+      "wisdom": 2,
+      "fear": 8,
+      "anger": 2,
+      "openness": 2,
+      "trust": 3
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter's traits and the debate excerpt, followed by a reasoned response and"
+  },
+  {
+    "id": 174,
+    "traits": {
+      "wisdom": 1,
+      "fear": 1,
+      "anger": 7,
+      "openness": 7,
+      "trust": 3
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 175,
+    "traits": {
+      "wisdom": 1,
+      "fear": 8,
+      "anger": 6,
+      "openness": 8,
+      "trust": 8
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 176,
+    "traits": {
+      "wisdom": 1,
+      "fear": 2,
+      "anger": 10,
+      "openness": 3,
+      "trust": 2
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 177,
+    "traits": {
+      "wisdom": 2,
+      "fear": 3,
+      "anger": 8,
+      "openness": 6,
+      "trust": 8
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, leading to a reasoned vote:"
+  },
+  {
+    "id": 178,
+    "traits": {
+      "wisdom": 9,
+      "fear": 2,
+      "anger": 1,
+      "openness": 5,
+      "trust": 4
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 179,
+    "traits": {
+      "wisdom": 8,
+      "fear": 1,
+      "anger": 8,
+      "openness": 6,
+      "trust": 2
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 180,
+    "traits": {
+      "wisdom": 10,
+      "fear": 10,
+      "anger": 7,
+      "openness": 7,
+      "trust": 1
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 181,
+    "traits": {
+      "wisdom": 2,
+      "fear": 3,
+      "anger": 10,
+      "openness": 7,
+      "trust": 9
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 182,
+    "traits": {
+      "wisdom": 3,
+      "fear": 10,
+      "anger": 8,
+      "openness": 2,
+      "trust": 7
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a recommendation:"
+  },
+  {
+    "id": 183,
+    "traits": {
+      "wisdom": 3,
+      "fear": 9,
+      "anger": 1,
+      "openness": 3,
+      "trust": 10
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter's traits and the debate excerpt, followed by a reasoned response and"
+  },
+  {
+    "id": 184,
+    "traits": {
+      "wisdom": 2,
+      "fear": 3,
+      "anger": 6,
+      "openness": 5,
+      "trust": 1
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 185,
+    "traits": {
+      "wisdom": 9,
+      "fear": 9,
+      "anger": 7,
+      "openness": 6,
+      "trust": 2
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned vote recommend"
+  },
+  {
+    "id": 186,
+    "traits": {
+      "wisdom": 2,
+      "fear": 3,
+      "anger": 1,
+      "openness": 1,
+      "trust": 2
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 187,
+    "traits": {
+      "wisdom": 8,
+      "fear": 9,
+      "anger": 10,
+      "openness": 8,
+      "trust": 7
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Okay, let's analyze this scenario and craft a response based on the provided voter traits and debate"
+  },
+  {
+    "id": 188,
+    "traits": {
+      "wisdom": 3,
+      "fear": 1,
+      "anger": 9,
+      "openness": 2,
+      "trust": 8
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 189,
+    "traits": {
+      "wisdom": 3,
+      "fear": 1,
+      "anger": 4,
+      "openness": 10,
+      "trust": 7
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 190,
+    "traits": {
+      "wisdom": 3,
+      "fear": 9,
+      "anger": 7,
+      "openness": 7,
+      "trust": 7
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 191,
+    "traits": {
+      "wisdom": 2,
+      "fear": 10,
+      "anger": 8,
+      "openness": 3,
+      "trust": 9
+    },
+    "values": {
+      "china": "Counter China militarily",
+      "healthcare": "Universal healthcare",
+      "guns": "Strict gun control"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 192,
+    "traits": {
+      "wisdom": 8,
+      "fear": 8,
+      "anger": 8,
+      "openness": 10,
+      "trust": 8
+    },
+    "values": {
+      "china": "Balanced approach",
+      "healthcare": "Medicare for All",
+      "guns": "Reasonable regulations"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, leading to a reasoned vote:\n"
+  },
+  {
+    "id": 193,
+    "traits": {
+      "wisdom": 9,
+      "fear": 3,
+      "anger": 10,
+      "openness": 4,
+      "trust": 1
+    },
+    "values": {
+      "china": "Peaceful coexistence with China",
+      "healthcare": "Public option",
+      "guns": "Second Amendment absolute"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned respo"
+  },
+  {
+    "id": 194,
+    "traits": {
+      "wisdom": 2,
+      "fear": 10,
+      "anger": 4,
+      "openness": 9,
+      "trust": 3
+    },
+    "values": {
+      "china": "Strong sanctions against China",
+      "healthcare": "Expand ACA",
+      "guns": "No gun control"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter's traits and the debate excerpt, followed by a reasoned res"
+  },
+  {
+    "id": 195,
+    "traits": {
+      "wisdom": 3,
+      "fear": 10,
+      "anger": 4,
+      "openness": 7,
+      "trust": 7
+    },
+    "values": {
+      "china": "Tech competition",
+      "healthcare": "Hybrid system",
+      "guns": "Ban assault weapons"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Okay, let's analyze this voter profile and the debate context to determine a likely vote.\n\n**Voter P"
+  },
+  {
+    "id": 196,
+    "traits": {
+      "wisdom": 3,
+      "fear": 10,
+      "anger": 3,
+      "openness": 2,
+      "trust": 9
+    },
+    "values": {
+      "china": "Focus on domestic issues",
+      "healthcare": "Free market healthcare",
+      "guns": "Minimal restrictions"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 197,
+    "traits": {
+      "wisdom": 10,
+      "fear": 3,
+      "anger": 8,
+      "openness": 5,
+      "trust": 3
+    },
+    "values": {
+      "china": "Trade competition with China",
+      "healthcare": "Catastrophic coverage only",
+      "guns": "Nationwide carry"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpts, leading to a reasoned vote:"
+  },
+  {
+    "id": 198,
+    "traits": {
+      "wisdom": 7,
+      "fear": 9,
+      "anger": 4,
+      "openness": 1,
+      "trust": 8
+    },
+    "values": {
+      "china": "Human rights focus",
+      "healthcare": "Personal responsibility",
+      "guns": "Universal background checks"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  },
+  {
+    "id": 199,
+    "traits": {
+      "wisdom": 9,
+      "fear": 6,
+      "anger": 1,
+      "openness": 3,
+      "trust": 8
+    },
+    "values": {
+      "china": "Economic interdependence",
+      "healthcare": "State solutions",
+      "guns": "Mental health focus"
+    },
+    "vote": "Donald Trump",
+    "explanation": "Here's an analysis of the voter traits and the debate excerpt, followed by a reasoned response and v"
+  },
+  {
+    "id": 200,
+    "traits": {
+      "wisdom": 10,
+      "fear": 9,
+      "anger": 5,
+      "openness": 3,
+      "trust": 2
+    },
+    "values": {
+      "china": "Diplomatic approach to China",
+      "healthcare": "Health savings accounts",
+      "guns": "Armed citizens"
+    },
+    "vote": "Kamala Harris",
+    "explanation": "Here's an analysis considering the voter traits and the debate excerpt, followed by a reasoned vote:"
+  }
+]
